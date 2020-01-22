@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\LaunchCode\AJ-csharp-exercises\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\LaunchCode\AJ-csharp-exercises\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\LaunchCode\AJ-csharp-exercises\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\LaunchCode\AJ-csharp-exercises\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache

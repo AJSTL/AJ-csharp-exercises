@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.exe
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.deps.json
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.dll
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\bin\Debug\netcoreapp3.1\ListsAndStrings.pdb
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.csprojAssemblyReference.cache
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.dll
+C:\LaunchCode\AJ-csharp-exercises\ListsAndStrings\obj\Debug\netcoreapp3.1\ListsAndStrings.pdb

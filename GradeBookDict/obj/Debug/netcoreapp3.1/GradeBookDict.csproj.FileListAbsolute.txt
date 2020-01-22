@@ -1,0 +1,10 @@
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.exe
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.deps.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.dll
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\bin\Debug\netcoreapp3.1\GradeBookDict.pdb
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\obj\Debug\netcoreapp3.1\GradeBookDict.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\obj\Debug\netcoreapp3.1\GradeBookDict.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\obj\Debug\netcoreapp3.1\GradeBookDict.dll
+C:\LaunchCode\AJ-csharp-exercises\GradeBookDict\obj\Debug\netcoreapp3.1\GradeBookDict.pdb

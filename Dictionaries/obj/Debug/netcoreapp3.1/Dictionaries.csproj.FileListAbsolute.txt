@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\LaunchCode\AJ-csharp-exercises\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csprojAssemblyReference.cache

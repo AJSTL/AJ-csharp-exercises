@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.exe
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.deps.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.dll
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\bin\Debug\netcoreapp3.1\GradeBookArray.pdb
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\obj\Debug\netcoreapp3.1\GradeBookArray.csprojAssemblyReference.cache
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\obj\Debug\netcoreapp3.1\GradeBookArray.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\obj\Debug\netcoreapp3.1\GradeBookArray.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\obj\Debug\netcoreapp3.1\GradeBookArray.dll
+C:\LaunchCode\AJ-csharp-exercises\GradeBookArray\obj\Debug\netcoreapp3.1\GradeBookArray.pdb

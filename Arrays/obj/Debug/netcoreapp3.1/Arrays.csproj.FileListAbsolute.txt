@@ -1,0 +1,10 @@
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\LaunchCode\AJ-csharp-exercises\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\LaunchCode\AJ-csharp-exercises\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\LaunchCode\AJ-csharp-exercises\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
