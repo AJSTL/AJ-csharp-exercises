@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.exe
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.dll
+C:\LaunchCode\AJ-csharp-exercises\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\LaunchCode\AJ-csharp-exercises\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\LaunchCode\AJ-csharp-exercises\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\School\obj\Debug\netcoreapp3.1\School.dll
+C:\LaunchCode\AJ-csharp-exercises\School\obj\Debug\netcoreapp3.1\School.pdb
