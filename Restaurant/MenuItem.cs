@@ -6,8 +6,15 @@ namespace Restaurant
 {
     class MenuItem
     {
-        private DateTime itemAddDate = new DateTime(2020, 1, 1);
-        private Boolean isNew = false;
+        private DateTime AddedOn { get; set; }
+        private Boolean isNew
+        {
+            get
+            {
+                return AddedOn.Date >= DateTime.Now.Date.AddMonths(-3); // from Scott's example
+            }
+        }
+
         public string ItemName { get; set; }
         public string ItemDescription { get; set; }
         public double ItemPrice { get; set; }
