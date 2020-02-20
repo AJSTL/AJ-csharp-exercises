@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Restaurant
 {
-    class MenuItem
+    public class MenuItem
     {
-        private DateTime AddedOn { get; set; }
-        private Boolean isNew
+        public DateTime AddedOn { get; set; }
+        public Boolean isNew
         {
             get
             {

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace Restaurant
 {
@@ -13,11 +14,11 @@ namespace Restaurant
          //   MenuItems = new List<MenuItem>(); // from Scott's Example
         // }
 
-        private Boolean newItemsAvailable
+        public Boolean newItemsAvailable
         {
             get
             {
-                 return MenuItems.Any(x => x.IsNew);
+                 return MenuItems.Any(x => x.isNew);
                 
             }
         }
