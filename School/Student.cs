@@ -33,9 +33,13 @@ namespace School
 
         public void AddGrade(int courseCredits, double grade)
         {
+
             NumberOfCredits += courseCredits;
             //calculated by dividing the total amount of grade points earned by the total amount of credit hours attempted
-            Gpa = Gpa + grade / courseCredits;
+            //Gpa = (total quality score) / (total number of credits)
+            Gpa = Gpa + (grade / courseCredits);
+
+            
         }
 
         public string GetGradeLevel()
@@ -60,6 +64,23 @@ namespace School
             {
                 return "Senior";
             }
+
+        }
+
+        public override bool Equals(object obj)
+        {
+            var studentObj = obj as Student;
+            return StudentId == studentObj.StudentId;
+        }
+
+        public override string ToString()
+        {
+            return Name + " (Credits: " + NumberOfCredits + ", GPA: " + Gpa;
+        }
+
+        public override int GetHashCode()
+        {
+            return StudentId;
         }
 
     }
