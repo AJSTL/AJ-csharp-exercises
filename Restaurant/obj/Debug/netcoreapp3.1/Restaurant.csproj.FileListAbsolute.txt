@@ -1,0 +1,11 @@
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\LaunchCode\AJ-csharp-exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
